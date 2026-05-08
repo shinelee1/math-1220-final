@@ -1,13 +1,10 @@
 # math-1220-final
 Replication of Stock &amp; Watson (1999) "Forecasting Inflation", replicates the core analysis: comparing Phillips curve inflation forecasts against AR benchmarks using pseudo out-of-sample evaluation
 
- ==============================================================================
- SUMMARY: COURSE TOPIC MAPPING
- ==============================================================================
 
-================================================================================
+SUMMARY: COURSE TOPIC MAPPING 
+
 COURSE TOPIC MAPPING — Where each part connects to MATH 1220
-================================================================================
 
 Part 1 (Descriptive Stats)
   -> Weeks 1-4: sample mean, variance, SE, histograms, EDF
@@ -39,4 +36,3 @@ Part 7 (Structural Stability)
 
 Part 8 (Extension)
   -> Original contribution — updated data, economic interpretation
-================================================================================
