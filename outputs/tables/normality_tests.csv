@@ -1,0 +1,4 @@
+"Test","Statistic","p_value"
+"KS (dpi)",0.0772,1e-04
+"Jarque-Bera (dpi)",822.65,0
+"Chi-sq GoF (dpi, k=10)",188.05,0

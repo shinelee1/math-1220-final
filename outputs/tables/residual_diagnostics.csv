@@ -1,0 +1,5 @@
+"Test","Statistic","p_value"
+"Jarque-Bera",752.858,0
+"KS normality",0.063,0.0039
+"Breusch-Godfrey (12 lags)",76.774,0
+"Breusch-Pagan",22.062,0.0048
